@@ -12,7 +12,7 @@ import java.util.Scanner;
 /**
  * dolar
  */
-public class dolar {
+public class Dolar {
 
     
     public static void main(String[] args) {
@@ -22,7 +22,7 @@ public class dolar {
 
         double cotacao,dolar,convert,soma;
         
-        System.out.println("Conversor dolar para real");
+        System.out.println("Conversor dolar para real\n");
 
         System.out.println("Digite o valor do dolar");
         cotacao = entrada.nextDouble();
