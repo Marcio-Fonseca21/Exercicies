@@ -4,7 +4,7 @@ package Exercicies;
  *  - Leia a cotação do dólar 
  *  - Leia um valor em dólares
  *  - Converta esse valor para Real 
- *  - Mostre o resultado 
+ *  - Mostre o resultado
  *************************************************************************/
 
 import java.util.Scanner;
