@@ -1,4 +1,3 @@
-package Exercicies;
 /*****************************************************************************************************************
 * 8) Calcular e apresentar o valor do volume de uma lata de óleo, utilizando a fórmula:
 * 		V = 3.14159 * R * R * A
