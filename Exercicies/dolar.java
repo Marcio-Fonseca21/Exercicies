@@ -1,4 +1,4 @@
-package Exercicios;
+package Exercicies;
 /*************************************************************************
  *    Faça um programa que: 
  *  - Leia a cotação do dólar 
