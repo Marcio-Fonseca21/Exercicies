@@ -18,7 +18,7 @@ public class CalcularRaio {
 
         double V,R,A;
 
-        System.out.printf("Calcular valor do volume de uma lata de óleo\n\n");
+        System.out.printf("Calcular e apresentar o valor do volume de uma lata de óleo\n\n");
 
         System.out.println("Digite o valor da Altura: ");
         A = entrada.nextDouble();
