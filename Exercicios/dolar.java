@@ -34,7 +34,7 @@ public class dolar {
         convert = soma * 1;
 
         System.out.printf("O valor em real é: %.2f", convert);
-        System.out.printf("O valor em real é: %.2f", convert);
+
 
         entrada.close();
     }
