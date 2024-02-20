@@ -1,6 +1,5 @@
-# Exercicies
-Java Exercicies
+# Java Exercicies
+
+**Attention:** Any type of correction is welcome, feel free to send me pull requests, issues, changes to the wiki, etc...
 
 
-## Exercicíos para estudos
-Atenção: QUALQUER tipo de correção é bem vinda, sinta-se à vontade para me enviar pull requests, issues, alterações na wiki, etc...
