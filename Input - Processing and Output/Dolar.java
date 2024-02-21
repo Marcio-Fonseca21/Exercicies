@@ -13,10 +13,8 @@ import java.util.Scanner;
  */
 public class dolar {
 
-    
     public static void main(String[] args) {
         
-
         Scanner entrada = new Scanner(System.in);
 
         double cotacao,dolar,convert,soma;
