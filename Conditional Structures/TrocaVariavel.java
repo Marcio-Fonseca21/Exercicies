@@ -33,7 +33,6 @@ public class trocaVariavel {
         if(A > B){
             System.out.println("A maior que B");
         }
-
         input.close();
     }
 
