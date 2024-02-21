@@ -9,7 +9,7 @@ import java.util.Scanner;
 /**
  * CacularRaio
  */
-public class CalcularRaio {
+public class calcularRaio {
 
     public static void main(String[] args) {
         

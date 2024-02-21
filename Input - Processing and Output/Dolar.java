@@ -11,7 +11,7 @@ import java.util.Scanner;
 /**
  * dolar
  */
-public class Dolar {
+public class dolar {
 
     
     public static void main(String[] args) {
