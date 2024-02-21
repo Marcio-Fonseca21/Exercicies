@@ -32,6 +32,7 @@ public class trocaVariavel {
             System.out.println("A maior que B");
         }
         input.close();
+        
     }
 
 }
